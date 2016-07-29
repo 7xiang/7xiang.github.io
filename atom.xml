@@ -5,7 +5,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2016-07-26T17:06:08.522Z</updated>
+  <updated>2016-07-27T09:34:54.138Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -16,11 +16,32 @@
   <generator uri="http://hexo.io/">Hexo</generator>
   
   <entry>
+    <title>提前占个坑</title>
+    <link href="http://yoursite.com/2016/07/29/%E5%8D%A0%E5%9D%91/"/>
+    <id>http://yoursite.com/2016/07/29/占坑/</id>
+    <published>2016-07-29T09:41:27.140Z</published>
+    <updated>2016-07-27T09:34:54.138Z</updated>
+    
+    <content type="html"><![CDATA[<p>哈哈哈哈我要去吃烧烤啦！一会还要把电脑升win10，先占下今天的坑。</p>
+<a id="more"></a>
+<p>现在还没有内容啊！等我吃回来再写，嘿嘿嘿</p>
+]]></content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;哈哈哈哈我要去吃烧烤啦！一会还要把电脑升win10，先占下今天的坑。&lt;/p&gt;
+    
+    </summary>
+    
+    
+  </entry>
+  
+  <entry>
     <title>日记20160726</title>
-    <link href="http://yoursite.com/2016/07/29/%E6%97%A5%E8%AE%B020160726/"/>
-    <id>http://yoursite.com/2016/07/29/日记20160726/</id>
-    <published>2016-07-29T09:41:27.178Z</published>
-    <updated>2016-07-26T17:06:08.522Z</updated>
+    <link href="http://yoursite.com/2016/07/26/%E6%97%A5%E8%AE%B020160726/"/>
+    <id>http://yoursite.com/2016/07/26/日记20160726/</id>
+    <published>2016-07-26T12:10:33.000Z</published>
+    <updated>2016-07-26T16:20:33.000Z</updated>
     
     <content type="html"><![CDATA[<blockquote>
 <p>这就是一篇<strong>正儿八经</strong>且<strong>碎了吧唧</strong>的日记了。</p>
@@ -71,73 +92,19 @@
     
     </summary>
     
-    
-  </entry>
-  
-  <entry>
-    <title>尝试添加视频</title>
-    <link href="http://yoursite.com/2016/07/29/%E5%B0%9D%E8%AF%95%E6%B7%BB%E5%8A%A0%E8%A7%86%E9%A2%91/"/>
-    <id>http://yoursite.com/2016/07/29/尝试添加视频/</id>
-    <published>2016-07-29T09:41:27.155Z</published>
-    <updated>2016-07-26T17:04:28.064Z</updated>
-    
-    <content type="html"><![CDATA[<blockquote>
-<p>这是一则<strong>严肃</strong>的安利。</p>
-</blockquote>
-<p><img src="http://f4.bcbits.com/img/a1601797796_16.jpg" alt=""></p>
-<a id="more"></a>
-<h4 id="Video"><a href="#Video" class="headerlink" title="Video++"></a>Video++</h4><p>在<a href="http://willxue.top/" target="_blank" rel="external">WillXue’s Blog</a>里面看到了使用video++在Hexo博客中添加视频的博文，但是试了很久还没有成功，官方文档链接在此，各位看官可以试试。</p>
-<blockquote>
-<p><a href="http://videojj.com/docs/#parse-video-intro/" target="_blank" rel="external">Video++开发文档</a></p>
-</blockquote>
-<h4 id="强行安利一波Andrea-Motis-amp-Joan-Chamorro"><a href="#强行安利一波Andrea-Motis-amp-Joan-Chamorro" class="headerlink" title="强行安利一波Andrea Motis &amp; Joan Chamorro"></a>强行安利一波Andrea Motis &amp; Joan Chamorro</h4><p>当然我也没有气馁，突发奇想把优酷视频的通用代码（iframe代码）贴到md里面，没想到居然可以播放。但是优酷的时间越来越长的广告实在是让人反感，video++可是无广告的嘿！</p>
-<p>就把我去年暑假迷上的西班牙爵士乐团<a href="http://andreamotisjoanchamorro.bandcamp.com/" target="_blank" rel="external">Andrea Motis &amp; Joan Chamorro</a>演奏的一首《My baby just cares for me》贴在这篇博文里吧。</p>
-<p>Just enjot it!</p>
-<iframe height="400" width="520" src="http://player.youku.com/embed/XNzkwMjcyNTM2" frameborder="0" allowfullscreen></iframe>
-
-<p>ps.Andrea Motis这个95年的小姑娘太厉害了，嗓子好，会吹小号、萨克斯，爵士功力十分深厚，实乃吾辈楷(nv)模(shen)啊！</p>
-<p><del>pps.为啥放到hexo里面就不能播放啊啊啊啊啊啊！！！<strong><em>（趴</em></strong><br>注：现在能播放了，这行划掉</del></p>
-]]></content>
-    
-    <summary type="html">
-    
-      &lt;blockquote&gt;
-&lt;p&gt;这是一则&lt;strong&gt;严肃&lt;/strong&gt;的安利。&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;p&gt;&lt;img src=&quot;http://f4.bcbits.com/img/a1601797796_16.jpg&quot; alt=&quot;&quot;&gt;&lt;/p&gt;
-    
-    </summary>
+      <category term="随笔" scheme="http://yoursite.com/categories/%E9%9A%8F%E7%AC%94/"/>
     
     
-  </entry>
-  
-  <entry>
-    <title>提前占个坑</title>
-    <link href="http://yoursite.com/2016/07/29/%E5%8D%A0%E5%9D%91/"/>
-    <id>http://yoursite.com/2016/07/29/占坑/</id>
-    <published>2016-07-29T09:41:27.140Z</published>
-    <updated>2016-07-27T09:34:54.138Z</updated>
-    
-    <content type="html"><![CDATA[<p>哈哈哈哈我要去吃烧烤啦！一会还要把电脑升win10，先占下今天的坑。</p>
-<a id="more"></a>
-<p>现在还没有内容啊！等我吃回来再写，嘿嘿嘿</p>
-]]></content>
-    
-    <summary type="html">
-    
-      &lt;p&gt;哈哈哈哈我要去吃烧烤啦！一会还要把电脑升win10，先占下今天的坑。&lt;/p&gt;
-    
-    </summary>
-    
+      <category term="skretch" scheme="http://yoursite.com/tags/skretch/"/>
     
   </entry>
   
   <entry>
     <title>夏夜</title>
-    <link href="http://yoursite.com/2016/07/29/%E5%A4%8F%E5%A4%9C/"/>
-    <id>http://yoursite.com/2016/07/29/夏夜/</id>
-    <published>2016-07-29T09:41:27.140Z</published>
-    <updated>2016-07-26T10:15:33.906Z</updated>
+    <link href="http://yoursite.com/2016/07/25/%E5%A4%8F%E5%A4%9C/"/>
+    <id>http://yoursite.com/2016/07/25/夏夜/</id>
+    <published>2016-07-25T12:10:33.000Z</published>
+    <updated>2016-07-25T15:20:33.000Z</updated>
     
     <content type="html"><![CDATA[<blockquote>
 <p>这是一篇<strong>暗黑向</strong>深夜<strong>鸡血</strong>文。</p>
@@ -177,6 +144,51 @@
     
     </summary>
     
+      <category term="随笔" scheme="http://yoursite.com/categories/%E9%9A%8F%E7%AC%94/"/>
+    
+    
+      <category term="skretch" scheme="http://yoursite.com/tags/skretch/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>尝试添加视频</title>
+    <link href="http://yoursite.com/2016/07/24/%E5%B0%9D%E8%AF%95%E6%B7%BB%E5%8A%A0%E8%A7%86%E9%A2%91/"/>
+    <id>http://yoursite.com/2016/07/24/尝试添加视频/</id>
+    <published>2016-07-24T12:10:33.000Z</published>
+    <updated>2016-07-24T14:20:33.000Z</updated>
+    
+    <content type="html"><![CDATA[<blockquote>
+<p>这是一则<strong>严肃</strong>的安利。</p>
+</blockquote>
+<p><img src="http://f4.bcbits.com/img/a1601797796_16.jpg" alt=""></p>
+<a id="more"></a>
+<h4 id="Video"><a href="#Video" class="headerlink" title="Video++"></a>Video++</h4><p>在<a href="http://willxue.top/" target="_blank" rel="external">WillXue’s Blog</a>里面看到了使用video++在Hexo博客中添加视频的博文，但是试了很久还没有成功，官方文档链接在此，各位看官可以试试。</p>
+<blockquote>
+<p><a href="http://videojj.com/docs/#parse-video-intro/" target="_blank" rel="external">Video++开发文档</a></p>
+</blockquote>
+<h4 id="强行安利一波Andrea-Motis-amp-Joan-Chamorro"><a href="#强行安利一波Andrea-Motis-amp-Joan-Chamorro" class="headerlink" title="强行安利一波Andrea Motis &amp; Joan Chamorro"></a>强行安利一波Andrea Motis &amp; Joan Chamorro</h4><p>当然我也没有气馁，突发奇想把优酷视频的通用代码（iframe代码）贴到md里面，没想到居然可以播放。但是优酷的时间越来越长的广告实在是让人反感，video++可是无广告的嘿！</p>
+<p>就把我去年暑假迷上的西班牙爵士乐团<a href="http://andreamotisjoanchamorro.bandcamp.com/" target="_blank" rel="external">Andrea Motis &amp; Joan Chamorro</a>演奏的一首《My baby just cares for me》贴在这篇博文里吧。</p>
+<p>Just enjot it!</p>
+<iframe height="400" width="520" src="http://player.youku.com/embed/XNzkwMjcyNTM2" frameborder="0" allowfullscreen></iframe>
+
+<p>ps.Andrea Motis这个95年的小姑娘太厉害了，嗓子好，会吹小号、萨克斯，爵士功力十分深厚，实乃吾辈楷(nv)模(shen)啊！</p>
+<p><del>pps.为啥放到hexo里面就不能播放啊啊啊啊啊啊！！！<strong><em>（趴</em></strong><br>注：现在能播放了，这行划掉</del></p>
+]]></content>
+    
+    <summary type="html">
+    
+      &lt;blockquote&gt;
+&lt;p&gt;这是一则&lt;strong&gt;严肃&lt;/strong&gt;的安利。&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;&lt;img src=&quot;http://f4.bcbits.com/img/a1601797796_16.jpg&quot; alt=&quot;&quot;&gt;&lt;/p&gt;
+    
+    </summary>
+    
+      <category term="Hexo" scheme="http://yoursite.com/categories/Hexo/"/>
+    
+    
+      <category term="skretch" scheme="http://yoursite.com/tags/skretch/"/>
     
   </entry>
   
@@ -185,7 +197,7 @@
     <link href="http://yoursite.com/2016/07/23/Welcome%20to%20my%20Blog/"/>
     <id>http://yoursite.com/2016/07/23/Welcome to my Blog/</id>
     <published>2016-07-23T12:10:33.000Z</published>
-    <updated>2016-07-29T12:16:18.133Z</updated>
+    <updated>2016-07-29T12:20:33.000Z</updated>
     
     <content type="html"><![CDATA[<h4 id="前言"><a href="#前言" class="headerlink" title="前言"></a>前言</h4><p>博客是参照<a href="http://lijianchang.xyz/" target="_blank" rel="external">Ryane Lee</a>的教程搭建的，在此<strong>郑重感谢</strong>！</p>
 <blockquote>
@@ -228,6 +240,10 @@
     
     </summary>
     
+      <category term="随笔" scheme="http://yoursite.com/categories/%E9%9A%8F%E7%AC%94/"/>
+    
+    
+      <category term="skretch" scheme="http://yoursite.com/tags/skretch/"/>
     
   </entry>
   
