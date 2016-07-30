@@ -5,11 +5,11 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2016-07-27T09:34:54.138Z</updated>
+  <updated>2016-07-30T02:20:33.000Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
-    <name>Luitar</name>
+    <name>Luitar噜</name>
     
   </author>
   
@@ -19,20 +19,35 @@
     <title>提前占个坑</title>
     <link href="http://yoursite.com/2016/07/29/%E5%8D%A0%E5%9D%91/"/>
     <id>http://yoursite.com/2016/07/29/占坑/</id>
-    <published>2016-07-29T09:41:27.140Z</published>
-    <updated>2016-07-27T09:34:54.138Z</updated>
+    <published>2016-07-29T15:10:33.000Z</published>
+    <updated>2016-07-30T02:20:33.000Z</updated>
     
-    <content type="html"><![CDATA[<p>哈哈哈哈我要去吃烧烤啦！一会还要把电脑升win10，先占下今天的坑。</p>
+    <content type="html"><![CDATA[<blockquote>
+<p>这是一篇很<strong>繁冗</strong>的<strong>三日</strong>记。</p>
+</blockquote>
+<p><img src="http://i4.piimg.com/570076/3b828375e830bd45.jpg" alt="image"></p>
+<blockquote>
+<p>例行<strong>装疯卖傻</strong>，嘿嘿嘿</p>
+</blockquote>
 <a id="more"></a>
-<p>现在还没有内容啊！等我吃回来再写，嘿嘿嘿</p>
 ]]></content>
     
     <summary type="html">
     
-      &lt;p&gt;哈哈哈哈我要去吃烧烤啦！一会还要把电脑升win10，先占下今天的坑。&lt;/p&gt;
+      &lt;blockquote&gt;
+&lt;p&gt;这是一篇很&lt;strong&gt;繁冗&lt;/strong&gt;的&lt;strong&gt;三日&lt;/strong&gt;记。&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;&lt;img src=&quot;http://i4.piimg.com/570076/3b828375e830bd45.jpg&quot; alt=&quot;image&quot;&gt;&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;例行&lt;strong&gt;装疯卖傻&lt;/strong&gt;，嘿嘿嘿&lt;/p&gt;
+&lt;/blockquote&gt;
     
     </summary>
     
+      <category term="随笔" scheme="http://yoursite.com/categories/%E9%9A%8F%E7%AC%94/"/>
+    
+    
+      <category term="skretch" scheme="http://yoursite.com/tags/skretch/"/>
     
   </entry>
   
@@ -240,7 +255,7 @@
     
     </summary>
     
-      <category term="随笔" scheme="http://yoursite.com/categories/%E9%9A%8F%E7%AC%94/"/>
+      <category term="Hexo" scheme="http://yoursite.com/categories/Hexo/"/>
     
     
       <category term="skretch" scheme="http://yoursite.com/tags/skretch/"/>
