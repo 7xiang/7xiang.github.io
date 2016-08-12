@@ -2,16 +2,23 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>http://yoursite.com/guestbook/index.html</loc>
+    <loc>http://yoursite.com/2016/08/12/%E5%81%9C%E6%9B%B4%E5%85%AC%E5%91%8A/</loc>
     
-    <lastmod>2016-08-09T13:01:13.523Z</lastmod>
+    <lastmod>2016-08-12T11:19:12.002Z</lastmod>
     
   </url>
   
   <url>
     <loc>http://yoursite.com/2016/08/08/%E4%B8%B0%E9%A5%B6%E7%9A%84%E8%8B%A6%E9%9A%BE/</loc>
     
-    <lastmod>2016-08-09T09:02:10.743Z</lastmod>
+    <lastmod>2016-08-09T13:03:24.197Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://yoursite.com/guestbook/index.html</loc>
+    
+    <lastmod>2016-08-09T13:01:13.523Z</lastmod>
     
   </url>
   

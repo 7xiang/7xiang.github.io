@@ -5,7 +5,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2016-08-09T09:02:10.743Z</updated>
+  <updated>2016-08-12T11:19:12.002Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -16,18 +16,42 @@
   <generator uri="http://hexo.io/">Hexo</generator>
   
   <entry>
+    <title>期限未知的停更公告</title>
+    <link href="http://yoursite.com/2016/08/12/%E5%81%9C%E6%9B%B4%E5%85%AC%E5%91%8A/"/>
+    <id>http://yoursite.com/2016/08/12/停更公告/</id>
+    <published>2016-08-11T16:00:00.000Z</published>
+    <updated>2016-08-12T11:19:12.002Z</updated>
+    
+    <content type="html"><![CDATA[<p>很难受，前面的周记也没有写完，这一周又浑浑噩噩熬到了周末。</p>
+<p>最近身体反应很大，生活很难正常进行，停更吧先。</p>
+<p>抱歉。</p>
+]]></content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;很难受，前面的周记也没有写完，这一周又浑浑噩噩熬到了周末。&lt;/p&gt;
+&lt;p&gt;最近身体反应很大，生活很难正常进行，停更吧先。&lt;/p&gt;
+&lt;p&gt;抱歉。&lt;/p&gt;
+
+    
+    </summary>
+    
+    
+  </entry>
+  
+  <entry>
     <title>丰饶的苦难</title>
     <link href="http://yoursite.com/2016/08/08/%E4%B8%B0%E9%A5%B6%E7%9A%84%E8%8B%A6%E9%9A%BE/"/>
     <id>http://yoursite.com/2016/08/08/丰饶的苦难/</id>
     <published>2016-08-07T16:00:00.000Z</published>
-    <updated>2016-08-09T09:02:10.743Z</updated>
+    <updated>2016-08-09T13:03:24.197Z</updated>
     
     <content type="html"><![CDATA[<blockquote>
 <p>这是来到兰州以后的第一周周记。</p>
 </blockquote>
 <p><img src="http://i1.piimg.com/570076/54c20eae24ed27b6.jpg" alt="image"></p>
 <a id="more"></a>
-<p>抵兰之时已是火曜日黄昏。</p>
+<h3 id="2016-08-02"><a href="#2016-08-02" class="headerlink" title="2016.08.02"></a>2016.08.02</h3><p>抵兰之时已是<strong>火曜日</strong>黄昏。</p>
 <p>得益于火车的晚点，约定好跟我一起吃晚餐的萌洋洋已然多挨饿了一个小时，不知道他有没有感受到我对他减肥大业的支持。</p>
 <p>于是我们吃了烤串……盒盒盒</p>
 <p>回到宿舍我的表情是这样的</p>
@@ -35,7 +59,8 @@
 <p>于是疯狂物理降温，在水房洗漱的同学们都以看智障的目光看我，因为我当时差不多洗了一遍澡……</p>
 <p>金城的热浪锲而不舍地袭击着我，一直到凌晨四点自燃噜才睡着。</p>
 <p><img src="http://i4.piimg.com/570076/08f64846f0d72a36.jpg" alt="image"></p>
-<p>（状态如上图且无限循环）</p>
+<p>（状态如图且无限循环）</p>
+<h3 id="2016-08-03"><a href="#2016-08-03" class="headerlink" title="2016.08.03"></a>2016.08.03</h3><p>水曜日是喜闻乐见的去二院复查的日子</p>
 <blockquote>
 <p>世界需要做后期的。</p>
 </blockquote>
