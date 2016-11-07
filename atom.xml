@@ -5,7 +5,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2016-10-23T15:20:33.000Z</updated>
+  <updated>2016-11-07T15:20:33.000Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -14,6 +14,35 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>立冬 · 2016</title>
+    <link href="http://yoursite.com/2016/11/04/%E7%AB%8B%E5%86%AC%20%C2%B7%202016/"/>
+    <id>http://yoursite.com/2016/11/04/立冬 · 2016/</id>
+    <published>2016-11-04T05:42:01.950Z</published>
+    <updated>2016-11-07T15:20:33.000Z</updated>
+    
+    <content type="html"><![CDATA[<p><strong>好可惜啊居然糊了……</strong></p>
+<p><img src="http://p1.bqimg.com/570076/6d7c26fa2157085f.jpg" alt="image"></p>
+<p>图片拍摄于海鹏师兄思宇师姐婚礼，α7 + Pentax SMC K135 2.5，2016.10.29</p>
+<a id="more"></a>
+<p>（占坑）</p>
+]]></content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;&lt;strong&gt;好可惜啊居然糊了……&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;http://p1.bqimg.com/570076/6d7c26fa2157085f.jpg&quot; alt=&quot;image&quot;&gt;&lt;/p&gt;
+&lt;p&gt;图片拍摄于海鹏师兄思宇师姐婚礼，α7 + Pentax SMC K135 2.5，2016.10.29&lt;/p&gt;
+    
+    </summary>
+    
+      <category term="随笔" scheme="http://yoursite.com/categories/%E9%9A%8F%E7%AC%94/"/>
+    
+    
+      <category term="skretch" scheme="http://yoursite.com/tags/skretch/"/>
+    
+  </entry>
   
   <entry>
     <title>霜降 · 2016</title>
